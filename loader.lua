@@ -12,7 +12,7 @@
 ]]
 
 local Config = {
-	Owner  = "Xenith-Project",
+	Owner  = "PolarisHub",
 	Repo   = "axon-dex",
 	Branch = "main",
 
